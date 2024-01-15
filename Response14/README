@@ -1,0 +1,4 @@
+The central script of this dataset was 10_runs.py, which was used to run all of the four benchmarking models as well as the CNNs with multiple different train/test/validation splits. 
+benchmarking_models.py contains code for the benchmarking models.
+CNN.py contains code for the DCNN
+SCNN_batchfixed.py contains code for the SCNN.
