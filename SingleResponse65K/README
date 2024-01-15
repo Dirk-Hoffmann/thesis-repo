@@ -1,1 +1,2 @@
-
+In this folder, CNN_big.py and SCNN.py were used to generate the CNN models, plots_CNN.py and plots_SCNN.py were used to generate the scatterplots for the models.
+test.py was used to generate plots for the benchmarking models.
